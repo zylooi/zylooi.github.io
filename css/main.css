@@ -957,7 +957,8 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: #fff;
+  background: url("http://omy1h6mbu.bkt.clouddn.com/bg1.jpg") no-repeat;
+  background-size: 100%;
 }
 .header-inner {
   position: relative;
@@ -980,7 +981,6 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 40px;
   color: #fff;
-  background: #222;
   border-bottom: none;
 }
 .brand:hover {
@@ -996,14 +996,16 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 20px;
+  font-size: 36px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 36px;
+  color: #555;
 }
 .site-subtitle {
   margin-top: 10px;
-  font-size: 13px;
-  color: #999;
+  font-size: 16px;
+  color: #e96e59;
 }
 .use-motion .brand {
   opacity: 0;
@@ -1534,8 +1536,8 @@ pre .javascript .function {
   bottom: 0;
   width: 0;
   z-index: 1040;
-  box-shadow: inset 0 2px 6px #000;
-  background: #222;
+  box-shadow: inset 0 0px 4px #ccc;
+  background: #f4f1ea;
   -webkit-transform: translateZ(0);
 }
 .sidebar a {
@@ -1568,7 +1570,7 @@ pre .javascript .function {
   width: 14px;
   height: 14px;
   padding: 5px;
-  background: #222;
+  background: #a7e00f;
   line-height: 0;
   z-index: 1050;
   cursor: pointer;
@@ -1602,7 +1604,7 @@ pre .javascript .function {
   padding: 2px;
   max-width: 96px;
   height: auto;
-  border: 2px solid #333;
+  border: 2px solid #f5d2be;
 }
 .site-author-name {
   margin: 5px 0 0;
@@ -1613,8 +1615,8 @@ pre .javascript .function {
 .site-description {
   margin-top: 5px;
   text-align: center;
-  font-size: 14px;
-  color: #999;
+  font-size: 15px;
+  color: #ffa500;
 }
 .site-state {
   overflow: hidden;
@@ -1684,7 +1686,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #779098;
+  background: #cc4f8e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2546,4 +2548,13 @@ embed {
   -ms-transform: rotate(360deg);
   -o-transform: rotate(360deg);
   transform: rotate(360deg);
+}
+.main {
+  background-color: #f4f1ea;
+}
+.sidebar a:hover {
+  color: #fc6423;
+}
+.back-to-top {
+  background: #a7e00f;
 }
