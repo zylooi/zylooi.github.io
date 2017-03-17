@@ -1,71 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>http://zylooi.github.io</loc>
-<priority>1.00</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/2017/03/16/Hi-I-come/</loc>
-<priority>0.10</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/2017/03/16/hello-world/</loc>
-<priority>0.10</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/about</loc>
-<priority>0.80</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/archives</loc>
-<priority>0.80</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/categories</loc>
-<priority>0.80</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/categories/index.html</loc>
-<priority>0.60</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/categories/生活小记/</loc>
-<priority>0.40</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/tags</loc>
-<priority>0.80</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/tags/frist/</loc>
-<priority>0.40</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
-<url>
-<loc>https://zylooi.github.io/tags/index.html</loc>
-<priority>0.60</priority>
-<lastmod>2017-03-17</lastmod>
-<changefreq>Always</changefreq>
-</url>
+  
+  <url>
+    <loc>http://zylooi.github.io/2017/03/16/Hi-I-come/</loc>
+    
+    <lastmod>2017-03-17T01:05:56.596Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zylooi.github.io/about/index.html</loc>
+    
+    <lastmod>2017-03-17T01:01:31.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zylooi.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-03-16T08:21:46.438Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zylooi.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-03-16T07:44:34.701Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zylooi.github.io/2017/03/16/hello-world/</loc>
+    
+    <lastmod>2017-03-16T02:25:54.849Z</lastmod>
+    
+  </url>
+  
 </urlset>

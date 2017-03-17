@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://zylooi.github.io/2017/03/16/Hi-I-come/</loc>
+    <lastmod>2017-03-17T01:05:56.596Z</lastmod>
+    <data>
+        <display>
+        <title>Hi,I come</title>
+        <pubTime>2017-03-16T02:41:47.000Z</pubTime>
+        
+        <tag>-frist</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活小记" url="http://zylooi.github.io/categories/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>http://zylooi.github.io/2017/03/16/hello-world/</loc>
+    <lastmod>2017-03-16T02:25:54.849Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-03-16T02:25:54.841Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
