@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>想想博客</title>
-  <subtitle>where there&#39;s a will, there&#39;s a way.</subtitle>
+  <subtitle>梦想是要有的，万一实现了呢</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zylooi.github.io/"/>
